@@ -10,8 +10,9 @@
   - Easy to extend with more questions.
 
 ## Project structure:
+  ```
   Quiz-oop/
-   ```
+
   ├── main.py              # Entry point of the quiz
   ├── question_model.py   # Question class
   ├── quiz_brain.py       # Quiz logic and flow
